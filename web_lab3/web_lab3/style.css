@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.content {
+	display: flex;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.battle-field-wrap {
+	display: flex;
+	width: 800px;
+	height: 600px;
+	margin: auto;
+	background-color: gray;
+	position: relative;
+}
+
+.drawable-view {
+	display: flex;
+	position: absolute;
+}
